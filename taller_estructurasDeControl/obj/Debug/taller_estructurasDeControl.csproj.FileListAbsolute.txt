@@ -5,3 +5,4 @@ C:\Users\Usuario\source\repos\C#\taller_estructurasDeControl\taller_estructurasD
 C:\Users\Usuario\source\repos\C#\taller_estructurasDeControl\taller_estructurasDeControl\obj\Debug\taller_estructurasDeControl.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\source\repos\C#\taller_estructurasDeControl\taller_estructurasDeControl\obj\Debug\taller_estructurasDeControl.exe
 C:\Users\Usuario\source\repos\C#\taller_estructurasDeControl\taller_estructurasDeControl\obj\Debug\taller_estructurasDeControl.pdb
+C:\Users\Usuario\source\repos\C#\taller_estructurasDeControl\taller_estructurasDeControl\obj\Debug\taller_estructurasDeControl.exe.config

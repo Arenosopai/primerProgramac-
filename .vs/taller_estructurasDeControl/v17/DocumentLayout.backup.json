@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{0FAAA1EE-2B74-4129-AA20-AC6D41CE9DC9}|taller_estructurasDeControl\\taller_estructurasDeControl.csproj|c:\\users\\usuario\\source\\repos\\c#\\taller_estructurasdecontrol\\taller_estructurasdecontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FAAA1EE-2B74-4129-AA20-AC6D41CE9DC9}|taller_estructurasDeControl\\taller_estructurasDeControl.csproj|solutionrelative:taller_estructurasdecontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAAA1EE-2B74-4129-AA20-AC6D41CE9DC9}|taller_estructurasDeControl\\taller_estructurasDeControl.csproj|c:\\users\\usuario\\source\\repos\\c#\\taller_estructurasdecontrol\\taller_estructurasdecontrol\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FAAA1EE-2B74-4129-AA20-AC6D41CE9DC9}|taller_estructurasDeControl\\taller_estructurasDeControl.csproj|solutionrelative:taller_estructurasdecontrol\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personas.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\C#\\taller_estructurasDeControl\\taller_estructurasDeControl\\Personas.cs",
+              "RelativeDocumentMoniker": "taller_estructurasDeControl\\Personas.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\C#\\taller_estructurasDeControl\\taller_estructurasDeControl\\Personas.cs*",
+              "RelativeToolTip": "taller_estructurasDeControl\\Personas.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T21:28:08.409Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\C#\\taller_estructurasDeControl\\taller_estructurasDeControl\\Program.cs",
               "RelativeDocumentMoniker": "taller_estructurasDeControl\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\C#\\taller_estructurasDeControl\\taller_estructurasDeControl\\Program.cs",
-              "RelativeToolTip": "taller_estructurasDeControl\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\C#\\taller_estructurasDeControl\\taller_estructurasDeControl\\Program.cs*",
+              "RelativeToolTip": "taller_estructurasDeControl\\Program.cs*",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAwGUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-16T19:21:03.303Z",
               "EditorCaption": ""
